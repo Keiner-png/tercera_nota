@@ -2,7 +2,7 @@ package unidad1;
 
 public class CuentaBanco {
     public static void main(String[] args) {
-         float saldo = 1000.0f;
+       float saldo = 1000.0f;
        final float MONTO_RETIRO = 200.00f;
         System.out.println("Hola, su saldo actual es de: " + saldo);
         // Primer retiro
