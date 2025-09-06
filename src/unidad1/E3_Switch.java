@@ -72,6 +72,7 @@ public class E3_Switch {
                     break;
             }
         }
+        consola.close();
     }
     
     
