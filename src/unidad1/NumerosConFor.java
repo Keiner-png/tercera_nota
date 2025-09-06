@@ -13,10 +13,6 @@ public class NumerosConFor {
                 numMax = num2;
             } else 
              numMax = num3;
-
-                
-
         }
-
     }
 }
