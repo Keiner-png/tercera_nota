@@ -13,8 +13,7 @@ public class E5_For {
         for (int i = 0; i <= 10; i++) {
             resultado = num * i;
             System.err.println(num + " * " + i + " = " + resultado);
-        }
-
+        };
         consola.close();
     }
 }
