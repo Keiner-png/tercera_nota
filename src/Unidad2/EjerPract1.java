@@ -1,5 +1,5 @@
 package Unidad2;
-
+// Tema: Intercambio de valores (paso por valor)
 public class EjerPract1 {
     // Creación del metodo para intercambiar variables
     public static void intercambiar (int num1, int num2) {
@@ -15,6 +15,7 @@ public class EjerPract1 {
         int num2 = 20; 
         System.out.println("Antes de llamar el metodo, num1 es: " + num1 + " y num2 es: " + num2);
         intercambiar(num1, num2);
+        System.out.println("Después de llamar el método, num1 es: " + num1 + " y num2 es: " + num2);
         
     }
 }
